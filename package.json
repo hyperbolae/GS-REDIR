@@ -9,6 +9,7 @@
   "author": "hyperbola",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.6"
+    "config": "^3.2.6",
+    "dotenv": "^8.2.0"
   }
 }
